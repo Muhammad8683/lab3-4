@@ -6,9 +6,9 @@ public class Main {
         int a = 20;
         int b = 6;
 
-        int sum = a + b;
+        int sum = a - b;
         int diff = a - b;
-        int mul = a * b;
+        int mul = a - b;
         int div = a / b;
 
         System.out.println("Sum: " + sum);
