@@ -1,10 +1,10 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello, Git Lab!");
+        System.out.println("Hello, Git Lab! changes are done now");
 
-        int a = 10;
-        int b = 5;
+        int a = 20;
+        int b = 6;
 
         int sum = a + b;
         int diff = a - b;
