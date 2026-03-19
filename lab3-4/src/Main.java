@@ -9,7 +9,7 @@ public class Main {
         int sum = a - b;
         int diff = a - b;
         int mul = a - b;
-        int div = a - b;
+        int div = a / b;
 
         System.out.println("Sum: " + sum);
         System.out.println("Difference: " + diff);
